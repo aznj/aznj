@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Azlan Jamal
-- 👀 I’m interested in VueJS and Laravel API Development
-- 🌱 I’m currently learning VueJS and Laravel
+- 👀 I’m working as Android Engineer at Photobook Worldwide
 - 💞️ I’m looking to contribute to any open source
 - 📫 How to reach me? azlanj1989@gmail.com
 
