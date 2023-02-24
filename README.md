@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Azlan Jamal
-- 👀 I’m working as Senior Android Engineer at Vorto
+- 👀 I’m working as Software Engineer at Vorto
 - 💞️ I’m looking to contribute to any open source
 - 📫 How to reach me? azlanj1989@gmail.com
 
