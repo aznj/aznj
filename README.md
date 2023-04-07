@@ -2,6 +2,7 @@
 - 👀 I’m working as Software Engineer at Vorto
 - I specialize in Android Development.
 - And now I'm broadening my development skillsets to Golang and Angular. 
+- I'm trying my best to learn new knowledge quickly.
 
 <!---
 aznj/aznj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
