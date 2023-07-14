@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Azlan Jamal
-- 👀 I’m working as Software Engineer at Vorto
+- 👋 Hi, I’m Azlan Jamal from :Malaysia:
+- 🔥 I’m working as Software Engineer at Vorto
 - I specialize in Android Development. 
 - Now I'm broadening my development skillsets to Golang and Angular.
 
