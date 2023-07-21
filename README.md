@@ -2,7 +2,7 @@
 - 🔥 I’m working as Software Engineer at Vorto
 - I specialize in Android Development 📱
 - Now I'm broadening my development skillsets to Golang and Angular 🕸️
-- Software engineering is not only a profession but also a profound passion that fuels my creativity and drives me to innovate beyond boundaries
+- Software engineering is not only a profession but also a profound passion that fuels my creativity and drives me to innovate beyond boundaries 🥇
 
 <!---
 aznj/aznj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
