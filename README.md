@@ -3,9 +3,7 @@
 - I specialize in Android Development 📱
 - Now I'm broadening my development skillsets to Golang and Angular 🕸️
 - Software engineering is not only a profession but also a profound passion that fuels my creativity and drives me to innovate beyond boundaries 🥇
-- 
 
-  <img src="https://go.dev/blog/go-brand/logos.jpg" alt="Golang Logos">
 
 
 <!---
