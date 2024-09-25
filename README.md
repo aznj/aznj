@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azlan Jamal from Malaysia 🇲🇾
 - 🔥 I’m working as Software Engineer at Vorto
-- I specialize in Android Development 📱
+- For 10 years, I worked and specialize in Android Development 📱
 - Now I'm broadening my development skillsets to Golang and Angular 🕸️
 - Programming is like a puzzle that I get to solve every day 🥉
 - Software engineering is not only a profession but also a profound passion that fuels my creativity and drives me to innovate beyond boundaries 🥇
