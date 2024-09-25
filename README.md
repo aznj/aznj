@@ -2,6 +2,7 @@
 - 🔥 I’m working as Software Engineer at Vorto
 - For 10 years, I worked and specialize in Android Development 📱
 - Now I'm broadening my development skillsets to Golang and Angular 🕸️
+- I'm also building web apps in React 👍
 - Programming is like a puzzle that I get to solve every day 🥉
 - Software engineering is not only a profession but also a profound passion that fuels my creativity and drives me to innovate beyond boundaries 🥇
 <!---
